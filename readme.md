@@ -1,12 +1,16 @@
 # 🎮 Guess The Number — Adventure Game
 
-An **interactive, animated, and adventurous number guessing game** built with  
-⚡ React + TypeScript + Vite + TailwindCSS + Framer Motion + Lucide Icons.  
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.1-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-4.4.9-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.3-blue?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-7.13-orange)](https://www.framer.com/motion/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-✨ Inspired by the classic "Guess the Number" game — but with modern UI, smooth animations, and fun vibes.
+An **interactive, animated, and adventurous number guessing game** built with modern web technologies.  
+✨ Inspired by the classic "Guess the Number" game — now with **smooth animations, modern UI, and fun vibes**.
 
 ---
-
 
 ## 📂 Project Structure
 
@@ -28,56 +32,55 @@ guess-the-number/
 ---
 
 ## ⚡ Features
-- 🎨 **TailwindCSS** for clean UI  
-- 🎬 **Framer Motion** for animations  
-- 🏆 **Winning screen** with trophy effect  
-- 🔁 **Play Again** reset option  
-- 📱 Fully responsive design  
-- 🪄 Simple, fun, and lightweight  
+- 🎨 **TailwindCSS** for clean and responsive UI  
+- 🎬 **Framer Motion** for smooth animations and transitions  
+- 🏆 **Winning screen** with trophy and confetti effects  
+- 🔁 **Play Again** button to reset the game  
+- 📱 Fully responsive design for mobile and desktop  
+- 🪄 Lightweight, simple, and fun gameplay  
 
 ---
 
 ## 🛠️ Installation & Setup
 
-Clone this repo:
+**Clone the repo:**
 ```bash
 git clone https://github.com/AnilYadav17/guess-the-number.git
 cd guess-the-number
 
 Install dependencies:
- npm install
- Start dev server:
- npm run dev
- 👉 Then open http://localhost:5173
- 
- 
- ---
- 
- 📦 Build for Production
+npm install
+
+Start development server:
+npm run dev
+👉 Then open http://localhost:5173
+
+
+📦 Build for Production
 npm run build
+
 Preview production build:
 npm run preview
-The final build will be inside the dist/ folder
 
- 
- ---
- 
- 🚀 Deployment
+The final build will be inside the dist/ folder.
 
-You can easily deploy the game on:
-Netlify
-Vercel
-GitHub Pages
 
- 
- ---
- 
-📸 Screenshots
 
- 
- ---
- 
- 👨‍💻 Author
-Made with ❤️ by Anil Yadav .(AnilYadav17)
+🚀 Deployment
+You can deploy your game easily on:
+(i)Netlify
+(ii)Vercel
+(iii)Github Pages
+
+👨‍💻 Author
+
+Made with ❤️ by Anil Yadav
+GitHub: @AnilYadav17
+
+
+📜 License
+This project is licensed under the MIT License.
+
+--
 
 
