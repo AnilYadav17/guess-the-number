@@ -15,18 +15,31 @@ An **interactive, animated, and adventurous number guessing game** built with mo
 ## 📂 Project Structure
 
 📂 guess-the-number/
+
 ├─ 📝 index.html
+
 ├─ 📦 package.json
+
 ├─ ⚙️ postcss.config.js
+
 ├─ 🎨 tailwind.config.js
+
 ├─ ⚡ tsconfig.json
+
 ├─ ⚡ tsconfig.node.json
+
 ├─ ⚡ vite.config.ts
+
 ├─ 📄 readme.md
+
 └─ 📁 src/
+
     ├─ 🖊️ App.tsx
+    
     ├─ 🖊️ main.tsx
+    
     └─ 🎨 index.css
+    
 
 
 ---
